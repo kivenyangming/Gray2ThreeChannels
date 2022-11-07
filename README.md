@@ -40,10 +40,10 @@ def Gray2ThreeChannels(RgbImgDir, SaveImgDir):
 ```
 
 ## 运行
-git clone https://github.com/kivenyangming/Gray2ThreeChannels.git
-cd Gray2ThreeChannls
-vim main.py
-----Line27: RgbImgDir = "./RgbImg/"  your RGBPath
-----Line28:SaveImgDir = "./SaveThreeChannels/"  your SavePath
+git clone https://github.com/kivenyangming/Gray2ThreeChannels.git\
+cd Gray2ThreeChannls\
+vim main.py\
+----Line27: RgbImgDir = "./RgbImg/"  your RGBPath\
+----Line28:SaveImgDir = "./SaveThreeChannels/"  your SavePath\
 
 python main.py
